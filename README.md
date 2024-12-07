@@ -19,6 +19,7 @@ but you need to go beyond that.
 What is the worst-case big $\Theta$ time complexity of your algorithm?
 
 ///
+
 Factorial is not called repeatedly to avoid theta (n^2)
 
 The code contains factorial calculation (n) and sum calculation (n), The loop is run only once.
